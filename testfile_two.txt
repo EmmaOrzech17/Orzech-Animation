@@ -1,3 +1,5 @@
 hello
 
 this is practice for Git Hub
+
+I am practicing editing files with Git and GitHub
